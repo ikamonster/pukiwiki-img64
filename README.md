@@ -11,7 +11,9 @@ Base64エンコードされた画像を埋め込み表示する[PukiWiki](https:
 
 ## インストール
 
-img64.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした img64.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-img64](https://github.com/ikamonster/pukiwiki-img64)
 
 ## 使い方
 
